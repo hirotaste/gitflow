@@ -6,3 +6,15 @@
   background-color: orange;
 }
 
+.building-text {
+  position: fixed;
+  width: 40vw;
+  top: 30%;
+  left: 80px;
+  color: var(--neutral-800, #292E3D);
+  font-family: Work Sans;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
