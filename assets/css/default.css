@@ -18,3 +18,12 @@
   font-weight: 600;
   line-height: normal;
 }
+
+.quadro{
+  background: #3559C7;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  width: 300px;
+  height: 100px;
+}
